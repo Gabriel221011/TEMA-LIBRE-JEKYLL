@@ -2,7 +2,7 @@
 layout: post
 title: "Los modelos más funcionales de la compañia Chevrolet"
 date: 2025-12-04
-background: '/assets/img/posts/img4.jpg'
+background: '/assets/img/posts/img4.avif'
 ---
 # Otras gamas y coches de Chevrolet
 
