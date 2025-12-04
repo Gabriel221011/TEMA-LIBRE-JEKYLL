@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "El éxito de la Empresa Chevrolet"
-date: 2020-01-30 23:45:13 -0400
+date: 2025-12-04
 background: '/assets/img/posts/img5.jpg'
 ---
 # Chevrolet: Éxito, Presencia Global e Ingresos
