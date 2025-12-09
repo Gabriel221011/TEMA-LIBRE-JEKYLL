@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ayuda de Mantenimiento
-background: '/img/img20.jpg'
+background: '/assets/img20.jpg'
 ---
 
 # 🛠️ Consejos de Mantenimiento para tu Chevrolet  
