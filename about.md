@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-background: '/assets/img20.jpg'
+background: '/assets/img/img20.jpg'
 ---
 ## Presentación
 
